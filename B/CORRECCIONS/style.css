@@ -1,0 +1,93 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+header{
+    width: 100%;
+    height: 50px;
+    float: left;
+    align-items: center;
+}
+.arriba{
+    float: right;
+    padding-right: 15px;
+    padding-top: 15px;
+}
+#foto{
+    width: 30px;
+    height: 30px;
+}
+
+
+
+.google{
+    float:left;
+    width: 60%;
+    padding-left: 35%;
+    padding-top: 5%;
+}
+.fotogoogle{
+    width: 400px;
+    height: 150px;
+}
+#fotoluis{
+    width: 125px;
+    height: 150px;
+}
+#fotodavid{
+    width: 125px;
+    height: 150px;
+}
+.infopersonal{
+    float: left;
+}
+#luis{
+    width: 39%;
+    text-align: right;
+}
+#blanco{
+    width: 19%;
+}
+#david{
+    width: 10%;
+}
+
+
+.abajo_izquierda{
+    float: left;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-left: 10px;
+}
+.abajo_derecha{
+    float: right;
+    padding-right: 15px;
+    padding-top: 15px;
+}
+footer{
+    margin-top: 75px;
+    width: 100%;
+    height: 80px;
+    float: left;
+    background-color: #f2f2f2;
+}
+#abajo{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+#abajo2{
+    padding-bottom: 8px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+#a{
+    color: white !important;
+}
